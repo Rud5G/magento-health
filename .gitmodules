@@ -1,0 +1,3 @@
+[submodule "magecheck"]
+	path = magecheck
+	url = git://github.com/gknoppe-guidance/magecheck.git
